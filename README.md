@@ -76,5 +76,5 @@
 
 # Контакты
 
-email: xadkorplay@gmail.com
-telegram: @Xadkorplay
+- email: xadkorplay@gmail.com
+- telegram: @Xadkorplay
